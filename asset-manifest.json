@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/habibu/near-protocol-marketplace/static/css/main.63a04e75.css",
+    "main.js": "/habibu/near-protocol-marketplace/static/js/main.2212c665.js",
+    "static/js/787.89e488f7.chunk.js": "/habibu/near-protocol-marketplace/static/js/787.89e488f7.chunk.js",
+    "static/media/sandwich.jpg": "/habibu/near-protocol-marketplace/static/media/sandwich.2d3124493c86046cf64a.jpg",
+    "static/media/bootstrap-icons.woff?": "/habibu/near-protocol-marketplace/static/media/bootstrap-icons.7ff3ca6fa798de3f8ac2.woff",
+    "static/media/bootstrap-icons.woff2?": "/habibu/near-protocol-marketplace/static/media/bootstrap-icons.f2539a501be3a673de05.woff2",
+    "index.html": "/habibu/near-protocol-marketplace/index.html",
+    "main.63a04e75.css.map": "/habibu/near-protocol-marketplace/static/css/main.63a04e75.css.map",
+    "main.2212c665.js.map": "/habibu/near-protocol-marketplace/static/js/main.2212c665.js.map",
+    "787.89e488f7.chunk.js.map": "/habibu/near-protocol-marketplace/static/js/787.89e488f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63a04e75.css",
+    "static/js/main.2212c665.js"
+  ]
+}
