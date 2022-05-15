@@ -1,10 +1,16 @@
 {
+  "homepage": "https://github.com/habibu/near-protocol-marketplace",
   "name": "near-marketplace-contract",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-scrips start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "keywords": [],
   "author": "",
@@ -17,6 +23,7 @@
     "assemblyscript": "^0.20.6",
     "gh-pages": "^4.0.0",
     "global": "^4.4.0",
-    "near-cli": "^3.2.0"
+    "near-cli": "^3.2.0",
+    "react-scripts": "^5.0.1"
   }
 }

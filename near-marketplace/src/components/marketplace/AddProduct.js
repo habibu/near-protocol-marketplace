@@ -94,8 +94,8 @@ const AddProduct = ({save}) => {
                     </Modal.Body>
                 </Form>
                 <Modal.Footer>
-                    <Botton variant="outline-secondary" onClick="{handleClose}">Cloase</Botton>
-                    <Botton
+                    <Button variant="outline-secondary" onClick="{handleClose}">Cloase</Button>
+                    <Button
                         variant="dark"
                         disbaled={!isFormFilled()}
                         onClick={ ()=> {
@@ -110,7 +110,7 @@ const AddProduct = ({save}) => {
                         }}
                     >
                         Save
-                    </Botton>
+                    </Button>
                 </Modal.Footer>
             </Modal>
         </>
